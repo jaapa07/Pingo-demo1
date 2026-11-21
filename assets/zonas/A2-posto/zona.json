@@ -1,0 +1,1 @@
+{"id":"A2-posto","tileset":"predio","largura":14,"altura":10,"w":14,"h":10,"tile":16,"chunk":160,"chunkTiles":10,"colunas":2,"linhas":1,"periodos":["dia"],"quadros":4,"animQuadros":4,"animMs":250,"chunks":[{"cx":0,"cy":0,"alto":true,"anim":true},{"cx":1,"cy":0,"alto":true,"anim":true}],"gramaAlta":[],"dinamicos":[],"luzes":[[168,24,20],[80,32,20]]}

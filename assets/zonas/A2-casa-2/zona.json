@@ -1,0 +1,1 @@
+{"id":"A2-casa-2","tileset":"casa","largura":12,"altura":9,"w":12,"h":9,"tile":16,"chunk":160,"chunkTiles":10,"colunas":2,"linhas":1,"periodos":["dia"],"quadros":4,"animQuadros":4,"animMs":250,"chunks":[{"cx":0,"cy":0,"alto":true,"anim":true},{"cx":1,"cy":0,"alto":false,"anim":false}],"gramaAlta":[],"dinamicos":[],"luzes":[[40,24,20]]}
